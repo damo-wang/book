@@ -216,4 +216,16 @@ is maintained by the W3C.
 $f(x)=sin(x)+12$
 $$ \sum_{n=1}^{100}n $$
 
+## 图像
+### 流程图
+Markdown Preview Enhanced使用mermaid来渲染流程图和时序图
+
+mermaid用法如下
+![](img/mermaid.png)
+
+mermaid支持三种主题，可通过`ctrl+shift+p` -> `Markdown Preview Enhanced: Open Mermaid Config` 命令打开 mermaid 配置文件
+* mermaid.css
+* mermaid.dark.css
+* mermaid.forest.css
+
 

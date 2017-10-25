@@ -10,8 +10,9 @@
     * [简介](markdown/readme.md)
     * [使用](markdown/use.md)
 
-### [杂项](other/readme.md)
-  @import "other/summary.md"
+* [杂项](other/readme.md)
+    * [markdown制作简历](other/resume.md)
+    * [Markdown Preview Enhanced](other/mpe.md)
 * [附件：测试gitbook](test/readme.md)
     * [目录](test/summary.md)
 
