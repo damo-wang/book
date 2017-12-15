@@ -1,0 +1,1 @@
+require(['./module.js'], function(animal) { console.log(animal); })

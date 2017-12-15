@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+first.py	../python/example/first.py	1;"	kind:file	line:1
+input	../c/laby/data/mods/python/lib/robot.py	/^def input():$/;"	kind:function	line:7
+laby_name_Exit	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Exit = 4;$/;"	kind:variable	line:38
+laby_name_Rock	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Rock = 2;$/;"	kind:variable	line:36
+laby_name_Unknown	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Unknown = 5;$/;"	kind:variable	line:39
+laby_name_Void	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Void = 0;$/;"	kind:variable	line:34
+laby_name_Wall	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Wall = 1;$/;"	kind:variable	line:35
+laby_name_Web	../c/laby/data/mods/python/lib/robot.py	/^laby_name_Web = 3;$/;"	kind:variable	line:37
+laby_name_drop	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_drop():$/;"	kind:function	line:25
+laby_name_escape	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_escape():$/;"	kind:function	line:28
+laby_name_forward	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_forward():$/;"	kind:function	line:19
+laby_name_left	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_left():$/;"	kind:function	line:12
+laby_name_look	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_look():$/;"	kind:function	line:41
+laby_name_right	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_right():$/;"	kind:function	line:16
+laby_name_say	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_say(s):$/;"	kind:function	line:31
+laby_name_take	../c/laby/data/mods/python/lib/robot.py	/^def laby_name_take():$/;"	kind:function	line:22
+output	../c/laby/data/mods/python/lib/robot.py	/^def output(s):$/;"	kind:function	line:3
+robot.py	../c/laby/data/mods/python/lib/robot.py	1;"	kind:file	line:1
