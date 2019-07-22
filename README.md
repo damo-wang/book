@@ -45,3 +45,20 @@
 [java](java/README.md)
 
 [arduino](arduino/README.md)
+
+# 邱健推荐
+
+## 开发相关
+
+1. [前端练习: https://codepen.io](https://codepen.io)
+2. [其他练习:https://repl.it](https://repl.it/)
+3. [正则练习:https://regex101.com/](https://regex101.com/)
+4. [sql练习:https://sqlfiddle.com](https://sqlfiddle.com/)
+5. [REST练习:https://webhook.site](https://webhook.site)
+6. [FakeAPI:https://mockaroo.com](https://mockaroo.com)
+7. [REST Client:https://getpostman.com](https://getpostman.com)
+
+## 图片占位
+8. [颜色和文字占位:https://place-hold.it/100&text=hello](https://place-hold.it/100&text=hello)
+9. [用户头像占位:http://pravatar.cc](http://pravatar.cc)
+10. [分类图片占位:https://placeimg.com/600/480/animals](https://placeimg.com/600/480/animals)
