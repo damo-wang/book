@@ -1,1 +1,0 @@
-define('module.js', function() { return 'A cat'; })
