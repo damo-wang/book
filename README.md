@@ -24,6 +24,9 @@
 
 需要更多时间整理、消化、沉淀出自己。
 
+*补充：*
+*现在是2022年5月10日，特别是今年，感觉很快的老了，该整理的东西太多了。*
+
 ---
 
 ## 目录
@@ -35,6 +38,8 @@
 [gitbook](gitbook/README.md)
 
 [markdown](markdown/README.md)
+
+[vscode](vscode/README.md)
 
 ### 工作技能
 
