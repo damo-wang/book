@@ -27,6 +27,7 @@ static int finished = 0;
 static void initPlatform(void);
 static void logHeader(void);
 static void usage(void);
+static void check(Webs *);
 
 #if WINDOWS
 static void windowsClose();
@@ -143,6 +144,7 @@ MAIN(goahead, int argc, char **argv, char **envp)
      */
     websAddRoute("/", "file", 0);
 #endif
+    websDefineAction("check",check);
 #ifdef GOAHEAD_INIT
     /*
         Define your init function in main.me goahead.init, or
@@ -176,6 +178,22 @@ MAIN(goahead, int argc, char **argv, char **envp)
     return 0;
 }
 
+static void check(Webs *wp)
+{
+  char name[10]="";
+  char age[10]="";
+
+  strcpy(name,websGetVar(wp,"name","damo"));
+  strcpy(age,websGetVar(wp,"age","28"));
+  //websSetStatus(wp,200);
+  //websWriteHeaders(wp,-1,0);
+  //websWriteEndHeaders(wp);
+  //websWrite(wp,"Name %s\n", name);
+  logmsg(2,"Name %s",name);
+  //websWrite(wp,"Age %s\n",age);
+  logmsg(2,"Age %s",age);
+  websDone(wp);
+}
 
 static void logHeader(void)
 {
